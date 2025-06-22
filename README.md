@@ -5,29 +5,30 @@ Using Python
 
 💡 Features
 
-✅ User-friendly GUI using Tkinter
+1) ✅ User-friendly GUI using Tkinter
 
-🌍 Translate text into over 100 languages
+2) 🌍 Translate text into over 100 languages
 
-🎯 Dropdown to choose output language
+3) 🎯 Dropdown to choose output language
 
-✨ Clean design with proper alignment and styling
+4) ✨ Clean design with proper alignment and styling
 
 
 
 🛠️ Technologies Used
 
-Python 3.x
+1) Python 3.x
 
-Tkinter – for building the GUI
+2) Tkinter – for building the GUI
 
-Googletrans – for accessing Google Translate API
+3) Googletrans – for accessing Google Translate API
 
-ttk.Combobox – for dropdown language selector
+4) ttk.Combobox – for dropdown language selector
 
 
 
 🚀 How It Works
+
 
 User enters text in the left input box
 
